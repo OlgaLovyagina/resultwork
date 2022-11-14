@@ -18,7 +18,7 @@ namespace FinalWork
         /// </summary>
         public static void Run()
         {
-            string[] array1 = new string[5] { "аоои", "ура", "hello", "11111", "907" };
+            string[] array1 = new string[5] { "ао", "ура", "hello", "11111", "907" };
             PrintArray(array1);
             string[] array2 = new string[array1.Length];
 
